@@ -1,0 +1,197 @@
+[
+    {
+        "id": 1,
+        "name": "Yankari Game Reserve",
+        "city": "Bauchi State",
+        "country": "Nigeria",
+        "entry_price": "₦30k",
+        "address": "111 Sapele Road, Benin City, Edo State",
+        "opening_time": "9:00 AM",
+        "closing_time": "07:00 PM",
+        "categories": [
+            "Nigeria",
+            "Recommended" 
+        ],
+        "images": [
+            "https://guardian.ng/wp-content/uploads/2016/06/Wildlife.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/4/48/Yankari_Entry_Gate.jpg",
+            "https://guardian.ng/wp-content/uploads/2018/08/yankari1-720x391.jpg"
+        ],
+        "coordinates": {
+            "lat": 9.7567,
+            "lon": 10.5094 
+        }
+    } , 
+    {
+        "id": 2,
+        "name": "Colosseum",
+        "city": "Rome",
+        "country": "Italy",
+        "entry_price": "₦542k",
+        "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+        "opening_time": "9:00 AM",
+        "closing_time": "7:00 PM",
+        "categories": [
+            "Most Visited",
+            "Europe"
+        ],
+        "images": [
+            "https://www.arttrav.com/wp-content/uploads/2021/06/colosseum-alexandrakorey.jpg",
+            "https://www.history.com/.image/t_share/MTkwODIxMzcwNDI5NDQ5OTEw/gettyimages-1081719544.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+            "https://static01.nyt.com/images/2022/06/12/world/12italy-colosseum-01/merlin_206622975_bf44e9c5-b817-405f-b46a-33f6fe5f88a8-superJumbo.jpg",
+            "http://cdn.cnn.com/cnnnext/dam/assets/200925160752-colosseum-file-restricted.jpg",
+            "https://www.travelandleisure.com/thmb/t74QyXS4Oi2C0Lg-_waWgOKTstI=/1600x1000/filters:fill(auto,1)/colosseum-rome-night-stars-ARENA0217-b7ebd36d82b0427caaac90674ba17028.jpg",
+            "https://www.onthegotours.com/blog/wp-content/uploads/2019/05/Colosseum-in-the-morning-Rome-Italy.jpg",
+            "https://hips.hearstapps.com/hmg-prod/images/tod-s-for-colosseum-hypogea-1-1624912790.jpg"
+        ],
+        "coordinates": {
+            "lat": 41.8902,
+            "lon": 12.4922
+        }
+    },
+    {
+        "id": 3,
+        "name": "TBS Square",
+        "city": "Lekki",
+        "country": "Nigeria",
+        "entry_price": "₦5k",
+        "address": "Bamgboshe Street, Lagos Island 102273, Lagos",
+        "opening_time": "9:00 AM",
+        "closing_time": "07:00 PM",
+        "categories": [
+            "Nigeria",
+            "Recommended"
+        ],
+        "images": [
+            "https://4.bp.blogspot.com/-eqbi04cf_7o/WhzOCHLV4oI/AAAAAAADALE/3b87RPHbHfA90q8R5qehoosLxw3EpazbwCLcBGAs/w1200-h630-p-k-no-nu/national-theatre-660x400-600x364.jpg",
+            "data:image/jpeg;base64,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",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeIQTQEF_2wlZPMtMTsX_DfB8nU5YNUoxOsA&usqp=CAU"
+        ],
+        "coordinates": {
+            "lat": 6.4453,
+            "lon": 3.4019
+        }
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Taj Mahal",
+        "city": "Agra",
+        "country": "India",
+        "entry_price": "₦464k",
+        "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+        "opening_time": "7:00 AM",
+        "closing_time": "5:00 PM",
+        "categories": [
+            "Recommended",
+            "Asia"
+        ],
+        "images": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6e/b1/6a/caption.jpg?w=1200&h=-1&s=1",
+            "https://www.forbesindia.com/media/images/2022/May/img_184243_tajmahalindia.jpg",
+            "https://www.tajmahal.gov.in/images/tajmahal-view/day/1.jpg"
+        ],
+        "coordinates": {
+            "lat": 27.1751,
+            "lon": 78.0421
+        }
+    },
+    {
+        "id": 5,
+        "name": "Kada Cinema",
+        "city": "Benin City",
+        "country": "Nigeria",
+        "entry_price": "₦10k",
+        "address": "111 Sapele Road, Benin City, Edo State",
+        "opening_time": "9:00 AM",
+        "closing_time": "07:00 PM",
+        "categories": [
+            "Nigeria"
+        ],
+        "images": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/28/6a/16/kada-cinemas.jpg?w=1200&h=1200&s=1",
+            "https://www.kadacinemas.com/wp-content/uploads/2021/05/Kadaphpp.jpg",
+            "https://www.kadaplaza.com/wp-content/uploads/2018/05/cinema-1.jpg"
+        ],
+        "coordinates": {
+            "lat": 6.3350,
+            "lon": 5.6037
+        }
+    }
+    ,
+    {
+        "id": 6,
+        "name": "Eiffel Tower",
+        "city": "Paris",
+        "country": "France",
+        "entry_price": "₦500k",
+        "address": "Champ de Mars, 5 Av. Anatole France, 75007 Paris, France",
+        "opening_time": "9:30 AM",
+        "closing_time": "10:45 PM",
+        "categories": [
+            "Most Visited",
+            "Recommended",
+            "Europe"
+        ],
+        "images": [
+            "https://www.planetware.com/photos-large/F/eiffel-tower.jpg",
+            "https://www.thetrainline.com/cms/media/1360/france-eiffel-tower-paris.jpg?mode=crop&width=1080&height=1080&quality=70",
+            "https://www.grunge.com/img/gallery/the-bizarre-history-of-the-eiffel-tower/l-intro-1602781703.jpg",
+            "https://th-thumbnailer.cdn-si-edu.com/Q-oOOYwzuhWGLlUa0NvS4jbMGoI=/fit-in/1600x0/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/04/0f/040fc6b3-2c00-4592-9993-8c0c485fcf99/gettyimages-142198198.jpg"
+        ],
+        "coordinates": {
+            "lat": 48.8584,
+            "lon": 2.2945
+        }
+    },
+    {
+        "id": 7,
+        "name": "Aso Rock",
+        "city": "Abuja",
+        "country": "Nigeria",
+        "entry_price": "₦20k",
+        "address": "Yakubu Gowon Crescent, Abuja, FCT.",
+        "opening_time": "9:00 AM",
+        "closing_time": "07:00 PM",
+        "categories": [
+            "Nigeria",
+            "Recommended"
+        ],
+        "images": [
+            "https://nigeriannewsdirect.com/wp-content/uploads/2022/01/IMG_20200603_160454_533-1.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/8/85/Olusegun_Obasanjo_with_Laura_Bush_January_18%2C_2006.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUHd6HgOJ5UHlIuhmxWEKFE-M2bgl8WNFeLHSRzBbU7UHNKyIf_XF1eOD9SZzSem4deg&usqp=CAU"
+        ],
+        "coordinates": {
+            "lat": 9.0833,
+            "lon": 7.5361
+        }
+    }
+    ,
+    {
+        "id": 8,
+        "name": "Leaning Tower of Pisa",
+        "city": "Pisa",
+        "country": "Italy",
+        "entry_price": "₦404k",
+        "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
+        "opening_time": "9:00 AM",
+        "closing_time": "07:00 PM",
+        "categories": [
+            "Europe",
+            "Recommended"
+        ],
+        "images": [
+            "https://cdn.mos.cms.futurecdn.net/QF5qpbogF6JCsuogypL3Fd.jpg",
+            "https://juliasalbum.com/wp-content/uploads/2019/04/leaning-tower-of-Pisa-Italy.jpg",
+            "https://i.pinimg.com/originals/9d/d9/47/9dd947df69dfb08fc55218c1eecad7ce.jpg"
+        ],
+        "coordinates": {
+            "lat": 43.7230,
+            "lon": 10.3966
+        }
+    },
+ 
+   
+]
