@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737466915635",
+    "project_id": "planify-1ce36",
+    "storage_bucket": "planify-1ce36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737466915635:android:b9764a79ef4218cbf47c46",
+        "android_client_info": {
+          "package_name": "com.projectname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737466915635-75nbdlg0n7ngj5u9np3v6af3qplnij91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUmcDGsF5M7OjqHEbmEVlz1ZzxZ2cCWOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737466915635-75nbdlg0n7ngj5u9np3v6af3qplnij91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
